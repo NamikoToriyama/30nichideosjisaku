@@ -5,4 +5,4 @@
 ## 状況
 
 現在29日目まで終わったところ。
-![image](https://github.com/NamikoToriyama/myOS/raw/master/img/29day.png)
+![image](https://github.com/NamikoToriyama/30nichideosjisaku/blob/master/img/29day.png)
